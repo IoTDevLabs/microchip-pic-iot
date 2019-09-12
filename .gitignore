@@ -1,0 +1,5 @@
+node_modules/
+setup/.firebase/
+setup/config.txt
+setup/ui/dist/
+setup/ui/src/Config.js
